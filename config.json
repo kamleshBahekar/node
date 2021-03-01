@@ -1,0 +1,17 @@
+{
+    "server": {
+        "port": "8888"
+    },
+    "dbUrl": "mongodb+srv://messenger:messenger123@cluster0.7tfyq.mongodb.net/messenger?retryWrites=true&w=majority",
+    "#dbUrl": "mongodb://localhost:27017/messenger",
+    "#staticFilesUrl": "https://api.giocab.com/static/",
+    "staticFilesUrl": "https://apiserver.bhagwadbhumi.com/static/",
+    "secretKey": "mooi-taxi-app",
+    "smsKey": "36b27b9f-bc7b-11ea-9fa5-0200cd936042",
+    "uploadUrl": "public/uploads/",
+    "appUrl": "http://localhost:3311",
+    "auth": {
+        "user": "info.accelgrowth@gmail.com",
+        "pass": "Sk7057250694"
+    }
+}
